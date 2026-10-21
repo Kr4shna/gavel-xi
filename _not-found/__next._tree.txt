@@ -1,4 +1,4 @@
-:HL["/gavel-xi/_next/static/chunks/0m0ctjfv9jumt.css","style"]
+:HL["/gavel-xi/_next/static/chunks/3q_o8r2ralsyy.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"2paR_8d-FBW2Cz2Wy6cjV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"SIj3PieTZgXzbLFs78uQc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
